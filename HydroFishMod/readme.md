@@ -1,4 +1,4 @@
-# The HydroFishMod
+# HydroFishMod
 
 
  > Why dig when you can fish?
