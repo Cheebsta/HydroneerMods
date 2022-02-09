@@ -3,7 +3,7 @@
 My mods for the game Hydroneer, currently just one. More in the works for 2.0
 
 ## Mods
-- [HydroFishMod](HydroFishMod) Requires HydroUMH by Rhino
+- [HydroFishMod](HydroFishMod) Requires [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak) by [Rhino](https://github.com/RHlNO/HydroneerModding)
 
 
 ### Thanks To:
