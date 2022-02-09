@@ -13,4 +13,4 @@ My mods for the game Hydroneer, currently just one. More in the works for 2.0
 * ItchyBeard - Artist behind the vanilla fish that inspired this mod
 * grandmaMax - Creator of Hydroneer
 
-And, of course, thanks for all the support from the Hydroneer Discord Server.
+And, of course, thanks for all the support from the [Hydroneer Discord Server](https://discord.com/invite/hgYBTGP).
