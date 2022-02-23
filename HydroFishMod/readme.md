@@ -22,8 +22,11 @@ Begin by finding a lost issue of Hydro Home & Garden that contains instructions 
 #### Hydro-lic Fish Grinder
 ##### By breaking them down into their raw resource form, this machine allows aquatic life to be processed in a standard conveyor sorting system. Simply drop the creatures into the grinder and your resources will pop out of the large pipe on the side like an Italian plumber. Cannot process dirt, but is able to pass ores, shards, and uncut gems through unharmed. Requires water, not currently filtration or pressure dependent.
 
-#### Really Big Scales</summary>
+#### Really Big Scales
 ##### Like any other scale, just bigger. Designed to weigh a small amount of really big fish, also able to weigh a large amount of really small fish. Chalkboard output works like a normal scale. Arrow is really just for fun and maxes out at 180 weights.
+
+#### Fish-o-Matic
+##### Employs a powered magnet to trap fish in a pot, automatically ejects caught fish out the side.
 
 ## The Fish
 
