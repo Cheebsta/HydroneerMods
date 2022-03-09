@@ -1,6 +1,6 @@
 # HydroJewelersWorkshop (Requires [HydroUMH](https://github.com/RHlNO/HydroneerModding/raw/main/Release%20Mods/501-HydroUMH_P.pak))
 
-https://cdn.discordapp.com/attachments/714629216041435157/950940430965542912/unknown.png
+![Store Preview](https://cdn.discordapp.com/attachments/714629216041435157/950940430965542912/unknown.png)
 
  > Gem Sizing & Jewelry Merging
 
