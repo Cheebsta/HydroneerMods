@@ -14,6 +14,7 @@ Breaks composite gems into 2-10 pieces.
 * Drop a composite gem into the box
 * Close the lid
 * Pull the lever
+
 Number of pieces can be selected at any time.
 
 ### Sizing Bench
@@ -21,6 +22,7 @@ Combines the weight of like jewelry items into a single item of the same type.
 * Place on a solid floor, cannot be placed on ground
 * Drop two or more jewelry items of the same type onto the table
 * Click the table to combine the items
+
 Limit of 1 combination per click.
 
 ### Gem Cutter
