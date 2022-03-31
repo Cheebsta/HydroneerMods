@@ -1,6 +1,8 @@
 # HydroneerMods
 
-My mods for the game Hydroneer, currently just one. More in the works for 2.0
+The following mods are for Hydroneer version 1.7
+
+Mods for 2.0 will not be available until after the official release.
 
 ## Mods
 - [HydroFishMod](HydroFishMod) 
